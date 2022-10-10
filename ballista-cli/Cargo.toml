@@ -30,7 +30,7 @@ readme = "README.md"
 
 [dependencies]
 ballista = { path = "../ballista/rust/client", version = "0.8.0" }
-clap = { version = "3", features = ["derive", "cargo"] }
+clap = { version = "4", features = ["derive", "cargo"] }
 datafusion = "12.0.0"
 datafusion-cli = "12.0.0"
 dirs = "4.0.0"
