@@ -40,7 +40,7 @@ async-trait = "0.1.41"
 chrono = { version = "0.4", default-features = false }
 clap = { version = "3", features = ["derive", "cargo"] }
 datafusion = "12.0.0"
-datafusion-proto = "12.0.0"
+datafusion-proto = "13.0.0"
 futures = "0.3"
 hashbrown = "0.12"
 
