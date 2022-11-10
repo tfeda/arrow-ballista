@@ -49,7 +49,7 @@ datafusion = "13.0.0"
 datafusion-objectstore-hdfs = { version = "0.1.0", optional = true }
 datafusion-proto = "13.0.0"
 futures = "0.3"
-hashbrown = "0.12"
+hashbrown = "0.13"
 
 itertools = "0.10"
 libloading = "0.7.3"
